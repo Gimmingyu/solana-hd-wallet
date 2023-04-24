@@ -1,0 +1,38 @@
+syntax = "proto3";
+package primrose;
+
+option go_package = "./primrose";
+
+
+
+message CreateWalletInput {
+
+}
+
+message CreateWalletOutput {
+
+}
+
+message GetBalanceInput {
+
+}
+
+message GetBalanceOutput {
+
+}
+
+message HealthCheckInput {
+
+}
+
+message HealthCheckOutput {
+
+}
+
+message TransferInput {
+
+}
+
+message TransferOutput {
+
+}
